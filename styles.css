@@ -6,8 +6,8 @@
 }
 
 :root {
-    --primary-color: #0366d6;
-    --secondary-color: #28a745;
+    --primary-color: #ffb6c1;
+    --secondary-color: #c71585;
     --dark-color: #24292e;
     --light-color: #f6f8fa;
     --text-color: #333;
@@ -118,7 +118,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #d174aa 0%, #934ba2 100%);
     color: white;
     padding: 0 20px;
     margin-top: 70px;
